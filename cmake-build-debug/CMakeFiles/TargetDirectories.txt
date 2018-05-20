@@ -1,0 +1,3 @@
+/home/thiagofsr/CLionProjects/Page Replacement Algorithms/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/thiagofsr/CLionProjects/Page Replacement Algorithms/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/thiagofsr/CLionProjects/Page Replacement Algorithms/cmake-build-debug/CMakeFiles/Page_Replacement_Algorithms.dir
