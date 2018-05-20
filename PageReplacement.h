@@ -1,7 +1,12 @@
-//
-// Created by thiagofsr on 18/05/18.
-//
-
+/**
+ *  @file    PageReplacement.h
+ *  @author  Thiago Filipe Soares da Rocha
+ *  @date    05/20/2018
+ *  @version 1.0
+ *
+ *  @brief PageReplacement Header File.
+ *
+ */
 #ifndef UNTITLED_PAGEREPLACEMENT_H
 #define UNTITLED_PAGEREPLACEMENT_H
 

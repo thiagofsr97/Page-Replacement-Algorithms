@@ -1,6 +1,12 @@
-//
-// Created by thiagofsr on 19/05/18.
-//
+/**
+ *  @file    StackList.cpp
+ *  @author  Thiago Filipe Soares da Rocha
+ *  @date    05/20/2018
+ *  @version 1.0
+ *
+ *  @brief StackList Header file.
+ *
+ */
 
 #ifndef PAGE_REPLACEMENT_ALGORITHMS_STACKLIST_H
 #define PAGE_REPLACEMENT_ALGORITHMS_STACKLIST_H
